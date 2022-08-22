@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/uroczysty-pianino-na-scenie-filharmonia-93439412.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    text-align: center;
+}
+
+.letter{
+    display: inline-block;
+    margin: 30px;
+    margin-top: 40%;
+    border: 3px black solid;
+    border-radius: 20px;
+    position: relative;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    background-color: white ;
+}
+
+.letter p {
+    text-align: center;
+    vertical-align: middle;
+    margin: 25%;
+    display: block;
+    font-size: xx-large;
+}
